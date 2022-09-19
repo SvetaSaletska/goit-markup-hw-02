@@ -61,9 +61,18 @@ color: #212121;
 .header-mail,
 .header-tel {
 color: #757575;
-
 }
-.header-list,
-.header-contacts {
-    
+
+.header-list .link:hover,
+.header-list .link:focus {
+    color: #2196F3;
+}
+
+.header-list .link:active {
+    color: #2196F3;
+}
+
+.header-contacts .link:hover,
+.header-contacts .link:focus {
+    color: #2196F3;
 }
