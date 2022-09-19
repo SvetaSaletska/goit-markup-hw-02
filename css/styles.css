@@ -1,0 +1,69 @@
+/* Колір основного тексту #757575 */
+
+/* Другорядний колір тексту #212121 */ 
+
+/* Білий колір #FFFFFF */
+
+/* Чорний колір #000000 */
+
+/* Акцент колір #2196F3 */
+
+/* ФОН */
+
+/* Колір із прозорістю rgba(255, 255, 255, 0.6); */
+
+/* Другорядний колір фону #F5F4FA */
+
+/* Основний колір фону #F5F5F5 */
+
+/* Колір хедеру та футеру #2F303A */
+
+body {
+    background-color: #F5F5F5;
+    color: #757575;
+    font-family: 'Roboto', sans-serif;
+}
+
+.list {
+list-style: none;
+}
+
+.link {
+text-decoration: none;
+}
+
+/* Шапка сайту */
+
+.header-logo {
+font-family: 'Raleway';
+font-weight: 700;
+font-size: 26px;
+line-height: 1.19;
+letter-spacing: 0.03em;
+color: #000000;
+text-decoration: none;
+}
+
+.header-logo-part {
+    color: #2196F3
+}
+
+.header-link,
+.header-mail,
+.header-tel {
+font-weight: 500;
+font-size: 14px;
+line-height: 1.14;
+letter-spacing: 0.02em;
+color: #212121;
+}
+
+.header-mail,
+.header-tel {
+color: #757575;
+
+}
+.header-list,
+.header-contacts {
+    
+}
